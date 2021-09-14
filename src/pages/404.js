@@ -35,7 +35,7 @@ export default function PageNotFound() {
   return (
     <Layout>
       <Helmet>
-        <title>Page Not Found | Mondello Restaurant</title>
+        <title>Page Not Found | Italian Restaurant</title>
       </Helmet>
       <StyledSection>
         <StyledWrapper>
