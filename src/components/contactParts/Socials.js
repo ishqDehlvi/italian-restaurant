@@ -27,19 +27,19 @@ export default function Socials({ mysize }) {
   return (
     <StyledSocialsDiv>
       <StyledLink
-        href="https://www.facebook.com/cirockipl/"
+        href="#"
         aria-label="Facebook"
       >
         <StyledIcon icon={faFacebookSquare} mysize={mysize} />
       </StyledLink>
       <StyledLink
-        href="https://www.linkedin.com/in/cirocki/"
+        href="#"
         aria-label="LinkedIn"
       >
         <StyledIcon icon={faInstagramSquare} mysize={mysize} />
       </StyledLink>
       <StyledLink
-        href="https://www.behance.net/cirocki/"
+        href="#"
         aria-label="Pinterest"
       >
         <StyledIcon icon={faPinterestSquare} mysize={mysize} />
