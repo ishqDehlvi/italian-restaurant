@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: `Mondello Restaurant`,
     description: `Website of a traditional Italian restaurant. `,
-    author: `Marcin Cirocki`,
+    author: `Ishq_dehlvi`,
   },
   plugins: [
     {
