@@ -14,7 +14,7 @@ export default function Home() {
     <Layout>
       <SEO
         title="Home"
-        description="Mondello Restaurant - We specialize in homemade classic Italian pizza, pasta, salads, soups and much more.."
+        description="Italian Restaurant - We specialize in homemade classic Italian pizza, pasta, salads, soups and much more.."
       />
       <main>
         <HeroSection />
